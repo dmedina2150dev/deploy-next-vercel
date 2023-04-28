@@ -1,0 +1,13 @@
+.menu-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin: 2rem;
+}
+
+.menu-container a {
+    font-size: 2rem;
+    color: #160c49;
+    transition: color text-decorarion .3s;
+}
